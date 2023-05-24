@@ -65,7 +65,7 @@ body {
 .container .progress::after {
     content: '';
     position: absolute;
-    inset: 5px;
+    inset: 10px;
     border-radius: 50%;
     background: #222;
 }
